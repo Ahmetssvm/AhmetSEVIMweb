@@ -80,7 +80,7 @@ function App() {
               <a href="mailto:ahmetsvm50@gmail.com" className="action-btn gmail-btn">
                 <i className="fas fa-envelope"></i> ahmetsvm50@gmail.com
               </a>
-              <a href="public/Ahmet_Sevim_CV.pdf" download="Ahmet_Sevim_CV.pdf" type="application/pdf" className="action-btn cv-btn primary-btn">
+              <a href="public/Ahmet_Sevim_cv.pdf" download="Ahmet_Sevim_cv.pdf" type="application/pdf" className="action-btn cv-btn primary-btn">
                 <i className="fas fa-download"></i> CV İndir
               </a>
             </div>
